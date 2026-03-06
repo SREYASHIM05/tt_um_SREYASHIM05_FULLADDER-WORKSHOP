@@ -16,4 +16,4 @@ apply input via switch and check the output via LEDS
 
 ## External hardware
 
-Lnot required
+not required
